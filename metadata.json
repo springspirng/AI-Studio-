@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio 正體中文擴充功能產生器",
+  "description": "產生並下載適用於 Chrome 與 Firefox 的 Google AI Studio 正體中文翻譯擴充功能，包含一鍵切換中英文功能。",
+  "requestFramePermissions": []
+}
